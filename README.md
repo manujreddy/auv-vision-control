@@ -19,6 +19,7 @@ A personal engineering project focusing on the software architecture for an auto
 └── sub_control/             # Custom ROS2 Python package
     ├── pid_node.py          # ROS2 PID Depth Controller
     └── sim_bridge.py        # RViz2 Digital Twin Physics Bridge
+
 ⚙️ Complete Installation & Setup
 
 Prerequisites: You must have Python 3 and a working installation of ROS2 installed on your Ubuntu machine.
