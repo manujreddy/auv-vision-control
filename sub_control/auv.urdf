@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<robot name="auv">
+  <link name="base_link">
+    <visual>
+      <geometry>
+        <box size="0.6 0.3 0.2"/>
+      </geometry>
+      <material name="blue">
+        <color rgba="0.0 0.4 0.8 1.0"/>
+      </material>
+    </visual>
+  </link>
+</robot>
